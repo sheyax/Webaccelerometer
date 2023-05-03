@@ -1,0 +1,444 @@
+[
+  {
+    "_id": "63e575e35b3fa38e6ea7d98f",
+    "username": "Amosun Dotun",
+    "password": "$2a$10$iuSUgBJrycCd2ymHZlgoluoZTKFb4kYkkxwYH6PaRrn/cza4GscCO",
+    "driverId": "driver1x",
+    "assignedVehicle": "64441469b99f671004968fdf",
+    "vehicleModel": "Toyota Hilux",
+    "roles": "user",
+    "__v": 0,
+    "dailyTrips": [
+      {
+        "date": "Fri Feb 10 2023 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "startTime": "05:10:00",
+        "endTime": "05:40:01",
+        "startLocation": "Heritage Place, Ikoyi",
+        "endLocation": "Banana Island Airtel Office",
+        "startOdometer": "100500",
+        "endOdometer": "100515",
+        "completed": true,
+        "aprroved": true,
+        "_id": "63e5769b952301c2248663ac"
+      }
+    ],
+    "vehicle": "64441469b99f671004968fdf"
+  },
+  {
+    "_id": "63e57ca3636f61727581502c",
+    "username": "Ade James",
+    "password": "$2a$10$zx17Rr5Ta5JUJOG5sWVzber2rue4P2ZFMa6M/8lDsoV3S6ZHeSU1.",
+    "driverId": "driverFront ",
+    "assignedVehicle": "SSS-345YY",
+    "vehicleModel": "Toyota Camry",
+    "roles": "user",
+    "dailyTrips": [
+      {
+        "date": "2023-02-11",
+        "startTime": "21:05",
+        "endTime": "21:20",
+        "startLocation": "Heritage Place ",
+        "endLocation": "Lekki Island",
+        "startOdometer": "100300",
+        "endOdometer": "100305",
+        "completed": true,
+        "aprroved": true,
+        "_id": "63e7f51ddf967a3da0797670"
+      },
+      {
+        "date": "2023-02-11",
+        "startTime": "22:15",
+        "endTime": "23:20",
+        "startLocation": "Osborne",
+        "endLocation": "Chevron",
+        "startOdometer": "100305",
+        "endOdometer": "100340",
+        "completed": true,
+        "aprroved": true,
+        "_id": "63e7f5cadf967a3da079767e"
+      },
+      {
+        "date": "2023-02-12",
+        "startTime": "08:30",
+        "endTime": "09:10",
+        "startLocation": "Oriental Hotel",
+        "endLocation": "Osborne Foreshore",
+        "startOdometer": "100340",
+        "endOdometer": "100345",
+        "completed": true,
+        "aprroved": true,
+        "_id": "63e7fb9fdf967a3da07976f0"
+      },
+      {
+        "date": "2023-02-13",
+        "startTime": "17:03",
+        "endTime": "17:09",
+        "startLocation": "Magodo",
+        "endLocation": "Chevron",
+        "startOdometer": "100300",
+        "endOdometer": "100310",
+        "completed": true,
+        "aprroved": true,
+        "_id": "63ea5f81b854f51e450ed87c"
+      },
+      {
+        "date": "2023-02-14",
+        "startTime": "09:03",
+        "endTime": "10:04",
+        "startLocation": "Alaba Market",
+        "endLocation": "Chevron",
+        "startOdometer": "100380",
+        "endOdometer": "100390",
+        "completed": true,
+        "aprroved": true,
+        "_id": "63eb4088953f5e99b406f781"
+      },
+      {
+        "date": "2023-02-14",
+        "startTime": "11:10",
+        "endTime": "12:12",
+        "startLocation": "Heritage Place ",
+        "endLocation": "Lekki Island",
+        "startOdometer": "100390",
+        "endOdometer": "100393",
+        "completed": true,
+        "aprroved": true,
+        "_id": "63eb41be953f5e99b406f7e6"
+      },
+      {
+        "date": "2023-02-14",
+        "startTime": "11:16",
+        "endTime": "11:23",
+        "startLocation": "Alaba Market",
+        "endLocation": "Ikeja",
+        "startOdometer": "100395",
+        "endOdometer": "100400",
+        "completed": true,
+        "aprroved": true,
+        "_id": "63eb431b953f5e99b406f871"
+      },
+      {
+        "date": "2023-02-14",
+        "startTime": "09:42",
+        "endTime": "09:47",
+        "startLocation": "Magodo",
+        "endLocation": "Osborne Foreshore",
+        "startOdometer": "100400",
+        "endOdometer": "100410",
+        "completed": true,
+        "aprroved": true,
+        "_id": "63eb4994e1187d37426a934e"
+      },
+      {
+        "date": "2023-02-14",
+        "startTime": "13:52",
+        "endTime": "14:10",
+        "startLocation": "Heritage Place ",
+        "endLocation": "Osborne Foreshore",
+        "startOdometer": "1000490",
+        "endOdometer": "1000494",
+        "completed": true,
+        "aprroved": true,
+        "_id": "63eb8433a5e30331404b97d0"
+      },
+      {
+        "date": "2023-02-14",
+        "startTime": "20:10",
+        "endTime": "20:59",
+        "startLocation": "Magodo",
+        "endLocation": "Ikeja",
+        "startOdometer": "1000500",
+        "endOdometer": "1000520",
+        "completed": true,
+        "aprroved": true,
+        "_id": "63eb85e1a5e30331404b987b"
+      },
+      {
+        "date": "2023-02-14",
+        "startTime": "15:35",
+        "endTime": "15:51",
+        "startLocation": "Magodo",
+        "endLocation": "Chevron",
+        "startOdometer": "1000400",
+        "endOdometer": "1000405",
+        "completed": true,
+        "aprroved": true,
+        "_id": "63eb9c55f7993746b2053bbc"
+      },
+      {
+        "date": "2023-02-15",
+        "startTime": "21:55",
+        "endTime": "22:20",
+        "startLocation": "Microsoft",
+        "endLocation": "Banana island",
+        "startOdometer": "100282",
+        "endOdometer": "100288",
+        "completed": true,
+        "aprroved": true,
+        "_id": "63ed46d12002820acaf79071"
+      },
+      {
+        "date": "2023-04-20",
+        "startTime": "15:40",
+        "endTime": "16:40",
+        "startLocation": "Jakande",
+        "endLocation": "VI",
+        "startOdometer": "100223",
+        "endOdometer": "100230",
+        "completed": true,
+        "aprroved": true,
+        "_id": "641870907b336700a5b4bba6"
+      },
+      {
+        "date": "2023-04-20",
+        "startTime": "08:35",
+        "endTime": "09:36",
+        "startLocation": "Heritage Place ",
+        "endLocation": "Chevron",
+        "startOdometer": "100454",
+        "endOdometer": "100469",
+        "completed": true,
+        "aprroved": true,
+        "_id": "6440eb45232d411680b1005d"
+      },
+      {
+        "date": "2023-04-20",
+        "startTime": "10:40",
+        "endTime": "00:40",
+        "startLocation": "Jakande",
+        "endLocation": "Ogudu",
+        "startOdometer": "100534",
+        "endOdometer": "100551",
+        "completed": true,
+        "aprroved": true,
+        "_id": "644108b30694fad3ef372775"
+      },
+      {
+        "date": "2023-04-21",
+        "startTime": "21:05",
+        "endTime": "22:05",
+        "startLocation": "Victoria island",
+        "endLocation": "Lekki chevron",
+        "startOdometer": "100881",
+        "endOdometer": "100890",
+        "completed": true,
+        "aprroved": true,
+        "_id": "6442fac71f46aca2463596dc"
+      },
+      {
+        "date": "2023-04-22",
+        "startTime": "18:05",
+        "endTime": "18:39",
+        "startLocation": "Victoria island",
+        "endLocation": "Agungi",
+        "startOdometer": "100222",
+        "endOdometer": "100228",
+        "completed": true,
+        "aprroved": true,
+        "_id": "6444220f6776bd3db9110210"
+      },
+      {
+        "date": "2023-04-24",
+        "startTime": "12:06",
+        "endTime": "14:09",
+        "startLocation": "Ajah",
+        "endLocation": "Lagos Island",
+        "startOdometer": "100334",
+        "endOdometer": "100351",
+        "completed": true,
+        "aprroved": true,
+        "_id": "6446ef864caaa991e8802716"
+      },
+      {
+        "date": "2023-04-28",
+        "startTime": "07:30",
+        "endTime": "12:45",
+        "startLocation": "Hotel",
+        "endLocation": "LG4190",
+        "startOdometer": "70892",
+        "endOdometer": "70920",
+        "completed": true,
+        "aprroved": true,
+        "_id": "644b6c32cb914d792ccbb768"
+      },
+      {
+        "date": "2023-04-28",
+        "startTime": "08:21",
+        "endTime": "08:50",
+        "startLocation": "Heritage",
+        "endLocation": "Osborne",
+        "startOdometer": "10023",
+        "endOdometer": "10026",
+        "completed": true,
+        "aprroved": true,
+        "_id": "644b740088970359b47c1ae2"
+      },
+      {
+        "date": "2023-04-28",
+        "startTime": "10:21",
+        "endTime": "10:45",
+        "startLocation": "Heritage",
+        "endLocation": "Osborne",
+        "startOdometer": "10022",
+        "endOdometer": "10025",
+        "completed": false,
+        "aprroved": false,
+        "_id": "644b904529559cc481008f4b"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "63ec858e3bc1f88ac4cb0342",
+    "username": "Ajero",
+    "password": "$2a$10$AM3HbPjo2v9xmcE0K19lSe9lXWAa./v1C2it1cay2UJ3t2gmWKC7y",
+    "driverId": "driver123",
+    "assignedVehicle": "EPE-2334TH",
+    "vehicleModel": "Toyota Hilux",
+    "roles": "user",
+    "dailyTrips": [
+      {
+        "date": "2023-05-3",
+        "startTime": "10:21",
+        "endTime": "10:45",
+        "startLocation": "Heritage",
+        "endLocation": "Osborne",
+        "startOdometer": "10022",
+        "endOdometer": "10025",
+        "completed": false,
+        "aprroved": false,
+        "_id": "644b904529559cc48100234b"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "63ed4d523235a47255cfb32a",
+    "username": "Musa",
+    "password": "$2a$10$1A9H4GGw7YXoCsWEcBxsa./.8ij9JSQxa6CvUoIHW2JfL85wBprnq",
+    "driverId": "DriverMusa",
+    "assignedVehicle": "JJJ-3366DG",
+    "vehicleModel": "Toyota Camry",
+    "roles": "user",
+    "dailyTrips": [
+      {
+        "date": "2023-02-16",
+        "startTime": "11:55",
+        "endTime": "03:59",
+        "startLocation": "Lagos",
+        "endLocation": "Edo",
+        "startOdometer": "74215",
+        "endOdometer": "74233",
+        "completed": true,
+        "aprroved": true,
+        "_id": "63ee0d0cd14c68bc9ee3114f"
+      },
+      {
+        "date": "2023-02-16",
+        "startTime": "12:02",
+        "endTime": "13:30",
+        "startLocation": "Hotel",
+        "endLocation": "OY1480",
+        "startOdometer": "82610",
+        "endOdometer": "82637",
+        "completed": true,
+        "aprroved": true,
+        "_id": "63ee0d68d14c68bc9ee31159"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "63ee10b22b17fd1b7e4747fe",
+    "username": "John",
+    "password": "$2a$10$1/924zvwNwpCfE7U0JEdX.MVCS5ZVkukcaKeN1hlm6Ici9/Yd6mz.",
+    "driverId": "John",
+    "assignedVehicle": "EET-6754UH",
+    "vehicleModel": "Mercedes Benz E300",
+    "roles": "user",
+    "dailyTrips": [],
+    "__v": 0
+  },
+  {
+    "_id": "6440f87f74dfcd3571008dee",
+    "username": "adamu",
+    "password": "$2a$10$X5rm3cn3ORyZhheqnZtIluyaAXqzOfwj1HsBzinBsaL2HKdDzQv5C",
+    "driverId": "adamu111",
+    "assignedVehicle": "WES-2283HH",
+    "vehicleModel": "Toyota camry 2022",
+    "roles": "user",
+    "dailyTrips": [
+      {
+        "date": "2023-05-3",
+        "startTime": "10:50",
+        "endTime": "11:15",
+        "startLocation": "Heritage",
+        "endLocation": "Osborne",
+        "startOdometer": "10022",
+        "endOdometer": "10025",
+        "completed": false,
+        "aprroved": false,
+        "_id": "644b904529559cc48100214b"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6443b698b4d3f29a531f6a3c",
+    "username": "Model test",
+    "password": "$2a$10$XVyC7AduhyG5MOIAqdKmR.3nyTXlK0XnmAk9EkUM1C293a5yfhyC6",
+    "driverId": "Modeltest 1",
+    "assignedVehicle": "KDF-494HH",
+    "vehicleModel": "Toyota hilux",
+    "roles": "user",
+    "dailyTrips": [],
+    "__v": 0
+  },
+  {
+    "_id": "6443b6ccb4d3f29a531f6a3e",
+    "username": "Modeltest",
+    "password": "$2a$10$eIYAv9/AfkRlxfGWxbUc7ODNVwQ/.XIP6o3Gr/0JSUumpU2KKaCPm",
+    "driverId": "Modeltest2",
+    "assignedVehicle": "KDF-494HH",
+    "vehicleModel": "Toyota hilux",
+    "roles": "user",
+    "dailyTrips": [],
+    "__v": 0
+  },
+  {
+    "_id": "644809c8c1eef09ecd8a0d94",
+    "username": "Sheyi",
+    "password": "$2a$10$CCAqvVe3gOuQG9x0B6EvDOoL/AbHY2FUHQLbPOlI6bCZDy2iO101q",
+    "driverId": "Sheyi",
+    "assignedVehicle": "sheyi",
+    "vehicleModel": "sheyi",
+    "roles": "user",
+    "dailyTrips": [
+      {
+        "date": "2023-04-26",
+        "startTime": "07:32",
+        "endTime": "09:02",
+        "startLocation": "Victoria island",
+        "endLocation": "Lekki chevron",
+        "startOdometer": "100393",
+        "endOdometer": "100399",
+        "completed": true,
+        "aprroved": true,
+        "_id": "64488ccb8511959f7733a094"
+      },
+      {
+        "date": "2023-04-29",
+        "startTime": "10:31",
+        "endTime": "11:31",
+        "startLocation": "Ajah",
+        "endLocation": "Jakande",
+        "startOdometer": "100223",
+        "endOdometer": "100230",
+        "completed": true,
+        "aprroved": true,
+        "_id": "644ce40d52af5dc5e629b117"
+      }
+    ],
+    "__v": 0
+  }
+]
