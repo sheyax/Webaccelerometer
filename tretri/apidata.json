@@ -7,6 +7,7 @@
     "assignedVehicle": "64441469b99f671004968fdf",
     "vehicleModel": "Toyota Hilux",
     "roles": "user",
+    "company": "Patjeda",
     "__v": 0,
     "dailyTrips": [
       {
@@ -32,6 +33,7 @@
     "assignedVehicle": "SSS-345YY",
     "vehicleModel": "Toyota Camry",
     "roles": "user",
+    "company": "Azma Logistics",
     "dailyTrips": [
       {
         "date": "2023-02-11",
@@ -296,6 +298,7 @@
     "assignedVehicle": "EPE-2334TH",
     "vehicleModel": "Toyota Hilux",
     "roles": "user",
+    "company": "Azma Logistics",
     "dailyTrips": [
       {
         "date": "2023-05-3",
@@ -320,6 +323,7 @@
     "assignedVehicle": "JJJ-3366DG",
     "vehicleModel": "Toyota Camry",
     "roles": "user",
+    "company": "Azma Logistics",
     "dailyTrips": [
       {
         "date": "2023-02-16",
@@ -356,6 +360,7 @@
     "assignedVehicle": "EET-6754UH",
     "vehicleModel": "Mercedes Benz E300",
     "roles": "user",
+    "company": "Azma Logistics",
     "dailyTrips": [],
     "__v": 0
   },
@@ -367,6 +372,7 @@
     "assignedVehicle": "WES-2283HH",
     "vehicleModel": "Toyota camry 2022",
     "roles": "user",
+    "company": "Patjeda",
     "dailyTrips": [
       {
         "date": "2023-05-3",
@@ -391,6 +397,7 @@
     "assignedVehicle": "KDF-494HH",
     "vehicleModel": "Toyota hilux",
     "roles": "user",
+    "company": "Kasma",
     "dailyTrips": [],
     "__v": 0
   },
@@ -402,6 +409,7 @@
     "assignedVehicle": "KDF-494HH",
     "vehicleModel": "Toyota hilux",
     "roles": "user",
+    "company": "Kasma",
     "dailyTrips": [],
     "__v": 0
   },
@@ -413,6 +421,7 @@
     "assignedVehicle": "sheyi",
     "vehicleModel": "sheyi",
     "roles": "user",
+    "company": "Azma Logistics",
     "dailyTrips": [
       {
         "date": "2023-04-26",
