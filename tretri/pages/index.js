@@ -6,6 +6,7 @@ import apidata from "@/apidata";
 import ChartArea from "@/components/ChartArea";
 import ChartBar from "@/components/BarChart";
 import ListBar from "@/components/ListBar";
+import ChartDough from "@/components/ChartDough";
 
 export default function Home() {
   const data = apidata;
@@ -88,7 +89,26 @@ export default function Home() {
     },
     { name: "Trips in Progress", value: totalIncom },
   ];
-  console.log(completionData);
+
+  //get total trips per company
+
+  let companyTrips = [];
+  apidata.forEach((driver) => {
+    const companyName = driver.company;
+    const index = companyTrips.findIndex(
+      (company) => company.name === companyName
+    );
+    if (index === -1) {
+      companyTrips.push({
+        name: companyName,
+        totalTrips: driver.dailyTrips.length,
+      });
+    } else {
+      companyTrips[index].totalTrips += driver.dailyTrips.length;
+    }
+  });
+
+  console.log(companyTrips);
 
   return (
     <div className={`bg-slate-200 min-h-screen`}>
@@ -115,6 +135,7 @@ export default function Home() {
             />
           </div>
         </div>
+        <ChartDough data={companyTrips} />
       </div>
     </div>
   );

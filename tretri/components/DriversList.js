@@ -25,7 +25,7 @@ const DriverList = () => {
     (selectedNames.includes(driver.username) || selectedNames.length === 0);
   return (
     <Card className="col-span-3 mt-2 p-5">
-      <div className="sm:mt-6 hidden sm:flex sm:start sm:space-x-2">
+      <div className="sm:mt-6 sm:flex sm:start sm:space-x-2">
         <MultiSelectBox
           onValueChange={(value) => setSelectedNames(value)}
           placeholder="Select Driver"
