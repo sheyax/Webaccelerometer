@@ -72,6 +72,14 @@ const DriverList = () => {
                 <TableCell className="text-right">
                   {item.dailyTrips.length}
                 </TableCell>
+                <TableCell className="items-center">
+                  <h1
+                    className="bg-blue-500 text-white p-2 rounded-md ml-5 cursor-pointer 
+                  hover:scale-105 duration-200 ease-out"
+                  >
+                    Details
+                  </h1>
+                </TableCell>
               </TableRow>
             ))}
         </TableBody>
